@@ -1,4 +1,4 @@
-# reading-notes-301
+
 ## Code 301 Reading Notes
 GitHub Pages are public webpages hosted and easily published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. 
 You can then modify your GitHub Pages’ content and style remotely via the web or locally on your computer.
@@ -19,3 +19,8 @@ View the _config.yml file by navigating to it in the Code tab. You can edit the 
 [click here](https://guides.github.com/features/pages/edit-file.png)
 
 for more informations [click here](https://guides.github.com/features/pages/#setup)
+
+| Syntax        | Description                                                           |
+| --------------| ----------------------------------------------------------------------|
+| NUM           | Reading assigments                                                    |
+|   class-01    |   [Link](https://raniaabdullahh.github.io/reading-notes-301/class01)  |
