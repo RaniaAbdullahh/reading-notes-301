@@ -23,3 +23,4 @@ for more informations [click here](https://guides.github.com/features/pages/#set
 | --------------| ----------------------------------------------------------------------|
 | NUM           | Reading assigments                                                    |
 |   class-01    |   [Link](https://raniaabdullahh.github.io/reading-notes-301/class01)  |
+|   class-02    |   [Link](https://raniaabdullahh.github.io/reading-notes-301/class02)  |
