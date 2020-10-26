@@ -32,6 +32,7 @@ WHERE condition
     AND/OR …;``
     
  - Filtering and sorting Query results
+ Since the DISTINCT keyword will blindly remove duplicate rows, we will learn in a future lesson how to discard duplicates based on specific columns using grouping and the GROUP BY clause.
  `` SELECT DISTINCT column, another_column, …
 FROM mytable
 WHERE condition(s);`` 
@@ -51,4 +52,12 @@ INNER/LEFT/RIGHT/FULL JOIN another_table
 WHERE condition(s)
 ORDER BY column, … ASC/DESC
 LIMIT num_limit OFFSET num_offset;``
-    
+
+- OUTER JOINs:
+Depending on how you want to analyze the data, the INNER JOIN we used last lesson might not be sufficient because the resulting table only contains data that belongs in both of the tables.
+
+- NULLs
+NULL values in an SQL database. It's always good to reduce the possibility of NULL values in databases because they require special attention when constructing queries, constraints
+- Multi-table queries with JOINs:
+Using the JOIN clause in a query, we can combine row data across two separate tables using this unique key. The first of the joins that we will introduce is the INNER JOIN.
+
