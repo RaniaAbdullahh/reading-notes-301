@@ -32,3 +32,4 @@ for more informations [click here](https://guides.github.com/features/pages/#set
 |   class-08    |   [Link](https://raniaabdullahh.github.io/reading-notes-301/class08)  |
 |   class-09    |   [Link](https://raniaabdullahh.github.io/reading-notes-301/class09)  |
 |   class-10    |   [Link](https://raniaabdullahh.github.io/reading-notes-301/class10)  |
+|   class-12    |   [Link](https://raniaabdullahh.github.io/reading-notes-301/class12)  |
